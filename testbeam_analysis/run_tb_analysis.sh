@@ -7,7 +7,7 @@ set -e
 
 testbeam="SPS202404"
 chip="GAP225SQ"
-pcb="pcb07"
+pcb="pcb10"
 #HV=()
 HV="10"
 chillerTemp="" # Default "", for SPS 2024 TB. For DESY 2024 TB use "_t0"
